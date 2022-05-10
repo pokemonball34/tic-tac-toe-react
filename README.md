@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with my Tic-Tac-Toe Game
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+As such, you will need to have Node.js installed.
+It is a simple application that plays tic-tac-toe. It requires two player to play. An AI may be implemented in the future.
 
 ## Available Scripts
 
